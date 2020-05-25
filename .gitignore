@@ -1,0 +1,24 @@
+# Compiled class file
+*.class
+
+# Package file
+*.jar
+
+# Maven
+target
+51la-uri-report-service/src/test/
+51la-uri-statistics-service/src/test/
+
+# Idea
+.idea
+*.iml
+
+# Log
+log
+*.log
+
+# Mac
+.DS_Store
+
+report-file
+*.xlsx
